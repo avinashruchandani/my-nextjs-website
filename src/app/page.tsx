@@ -56,7 +56,7 @@ export default function Home() {
           margin: '0 0 8px 0',
           textShadow: '0 2px 4px rgba(0,0,0,0.3)'
         }}>
-          Alex Chen
+          Alexie Chen
         </h1>
         <p style={{
           fontSize: '16px',
