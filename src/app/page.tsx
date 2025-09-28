@@ -182,7 +182,7 @@ export default function Home() {
         color: 'rgba(255,255,255,0.7)',
         fontSize: '14px'
       }}>
-        <p>© 2024 Alex Chen | Building AI-Powered Futures</p>
+        <p>© 2025 Avinash Ruchandani | This is a test website</p>
       </div>
     </main>
   )
